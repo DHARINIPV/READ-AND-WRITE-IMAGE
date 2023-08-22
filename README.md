@@ -78,35 +78,15 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-
-
 ![Screenshot from 2023-08-22 21-58-27](https://github.com/DHARINIPV/READ-AND-WRITE-IMAGE/assets/119400845/90ec87a0-b0a1-4448-bd4d-6ca9e723f859)
-
-
 ### ii)Write the image
-
-
 ![Screenshot from 2023-08-22 22-18-26](https://github.com/DHARINIPV/READ-AND-WRITE-IMAGE/assets/119400845/0ef1cea4-e077-428d-98c6-95556685cec4)
-
-
 ### iii)Shape of the Image
-
-
 ![Screenshot from 2023-08-22 22-19-02](https://github.com/DHARINIPV/READ-AND-WRITE-IMAGE/assets/119400845/fbaa7c9e-bfa6-4603-9ca4-db6728fc51a1)
-
-
 ### iv)Access rows and columns
-
-
 ![Screenshot from 2023-08-22 22-21-04](https://github.com/DHARINIPV/READ-AND-WRITE-IMAGE/assets/119400845/1a31ef6e-5b6b-4beb-806c-41990b745daa)
-
-
 ### v)Cut and paste portion of image
-
-
 ![Screenshot from 2023-08-22 22-38-44](https://github.com/DHARINIPV/READ-AND-WRITE-IMAGE/assets/119400845/ed7fcb8f-0b68-4af9-8afb-aa45eadd5a22)
 
-
 ## Result:
-
-Thus the images are read, displayed, and written successfully using the python program.
+Thus the images are read, displayed, and written successfully using the python program
